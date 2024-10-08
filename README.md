@@ -21,5 +21,6 @@ We only have a couple of rules and we hope you enjoy the process :)
 10. Submit Pull Request
 
 It's that easy! We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers about any problems!
+
 ---
-Urban Computing Assignment - Year 5 (MAI)
+### Urban Computing Assignment - Year 5 (MAI)
