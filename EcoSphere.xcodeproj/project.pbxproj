@@ -29,9 +29,22 @@
 		7CABD3CF2CB56F4100375F18 /* EcoSphereUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EcoSphereUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		7C8901B02CB5D389004C4E0F /* Exceptions for "EcoSphere" folder in "EcoSphere" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 7CABD3B42CB56F4000375F18 /* EcoSphere */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		7CABD3B72CB56F4000375F18 /* EcoSphere */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				7C8901B02CB5D389004C4E0F /* Exceptions for "EcoSphere" folder in "EcoSphere" target */,
+			);
 			path = EcoSphere;
 			sourceTree = "<group>";
 		};
@@ -399,6 +412,10 @@
 				DEVELOPMENT_TEAM = 5T4FTP2952;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EcoSphere/Info.plist;
+				INFOPLIST_KEY_NSFileProviderDomainUsageDescription = "We need access to your files to store local data.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need access to your location to provide location-based tracking.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to the microphone for recording background noise.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -428,6 +445,10 @@
 				DEVELOPMENT_TEAM = 5T4FTP2952;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EcoSphere/Info.plist;
+				INFOPLIST_KEY_NSFileProviderDomainUsageDescription = "We need access to your files to store local data.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We need access to your location to provide location-based tracking.";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "We need access to the microphone for recording background noise.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

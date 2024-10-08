@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "undraw_environment_iaus.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Screenshot 2024-10-08 at 21.19.16-Photoroom.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "undraw_environment_iaus 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
