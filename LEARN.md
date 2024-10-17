@@ -1,6 +1,13 @@
 # EcoSphere
 **EcoSphere** is a comprehensive application designed to measure and monitor environmental factors such as air quality, noise pollution, and green space access within urban areas. It provides users with a real-time **Green Index Score**, which serves as an indicator of the environmental health of different locations in their vicinity. The score is based on data collected from the user’s phone sensors and external data sources, helping people understand the ecological conditions of their surroundings and make informed choices.
 
+# How to Run ?
+To run this app on your device, follow the below steps:
+1. Open this repository (cloned / downloaded / zipped) through Xcode on your macOS enabled device.
+2. Connect your iPhone to your macOS enabled device and select the same as the deployment target (ensure you have all permissions, trust and security options enabled on your iPhone)
+3. Click on the build / run icon on the top left corner.
+4. Wait for the app to be installed on your iPhone, post which you can disconnect the same from your macOS enabled device and continue to use it, like you would with any other application.
+
 # Contributing to EcoSphere
 Hello and welcome! We are so glad that you are interested in contributing to EcoSphere!
 We only have a couple of rules and we hope you enjoy the process :)
