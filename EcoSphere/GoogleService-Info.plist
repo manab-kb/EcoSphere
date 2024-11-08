@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyApVXp1pDjRsFIt-dW3xL9Jenw1w0IdHVk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1097579969352</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ID22300703.EcoSphere</string>
+	<key>PROJECT_ID</key>
+	<string>ecosphere-421ef</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ecosphere-421ef.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1097579969352:ios:0a3e30ea02d519e704917d</string>
+</dict>
+</plist>
